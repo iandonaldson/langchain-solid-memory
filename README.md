@@ -1,7 +1,14 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Setting up any new jupyter notebook project
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+1. Go to https://github.com/github/codespaces-jupyter
+2. Click on "Use this template"
+3. Select a name for the repo, description, set to private/public etc
+4. Go to code - > open in Codespaces
+5. Enter package requirements in requirements.txt
+6. Make a virtual environment when prompted
+7. Type `jupyter notebook` in the terminal
+8. Follow the intructions in the terminal to open the notebook; e.g.
+`    To access the server, open this file in a browser:
+        file:///home/codespace/.local/share/jupyter/runtime/jpserver-11778-open.html`
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
