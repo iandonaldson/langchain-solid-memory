@@ -9,6 +9,11 @@
 7. Type `jupyter notebook` in the terminal
 8. Follow the intructions in the terminal to open the notebook; e.g.
 `    To access the server, open this file in a browser:
-        file:///home/codespace/.local/share/jupyter/runtime/jpserver-11778-open.html`
+        http://127.0.0.1:8888/tree?token=2a357a6dcea48f109ce164c5dbca53034938c1f763219cd2`
+        I was not able to get this to work so instead use instruction 9
+9. ALternatively, in github, click on code/[name of running codespace]/open in jupyter labs
+which will take you to `https://scaling-orbit-4pgjq9jp5937pxg.github.dev/?editor=jupyter` where
+scaling-orbit-4pgjq9jp5937pxg.github.dev is the name of the codespace.
+10. Add code to the notebook
 
 
