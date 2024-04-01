@@ -1,5 +1,6 @@
 langchain
 python-dotenv
+docarray
 
 ipywidgets==7.7.1
 matplotlib==3.7.0
