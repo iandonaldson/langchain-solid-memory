@@ -12,5 +12,6 @@
         http://127.0.0.1:8888/tree?token=2a357a6dcea48f109ce164c5dbca53034938c1f763219cd2`
         I was not able to get this to work so instead use instruction 9
 9. Give up
+10. Always do one change at a time
 
 
